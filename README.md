@@ -11,11 +11,12 @@ Reference
 
 If you use this tool please cite the following paper:
 
-.. code-block::
-
-    @inproceedings{plaza-etal-2024-emotion-survey,
-    title={{Emotion Analysis in NLP: Trends, Gaps and Roadmap for Future Directions}},
-    author={Flor Miriam, {Plaza-del-Arco} and Cercas Curry, Alba, and Cercas Curry, Amanda and Hovy, Dirk},
-    booktitle = "Proceedings of the the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
-    year = "2024",
-    publisher = "European Language Resources Association"}
+```
+@inproceedings{plaza-etal-2024-emotion-survey,
+title={{Emotion Analysis in NLP: Trends, Gaps and Roadmap for Future Directions}},
+author={Flor Miriam, {Plaza-del-Arco} and Cercas Curry, Alba, and Cercas Curry, Amanda and Hovy, Dirk},
+booktitle = "Proceedings of the the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+year = "2024",
+publisher = "European Language Resources Association"
+}
+```
