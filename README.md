@@ -9,8 +9,6 @@ main conferences, 31 in workshops, 3 in Findings, and 1 in other venues. These p
 Reference
 ---------
 
-If you use this tool please cite the following paper:
-
 ```
 @inproceedings{plaza-etal-2024-emotion-survey,
 title={{Emotion Analysis in NLP: Trends, Gaps and Roadmap for Future Directions}},
